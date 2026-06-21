@@ -13,5 +13,7 @@ public class App {
 
         System.out.println("mesa de : " + nombre + " con " + personas + " personas");
 
+        entrada.close();
+
     }
 }

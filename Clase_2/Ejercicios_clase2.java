@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class Ejercicios2 {
+public class Ejercicios_clase2 {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        
+
         int numero1 = 10;
         int numero2 = 20;
         int resultadoSuma = numero1 + numero2;
@@ -16,7 +16,6 @@ public class Ejercicios2 {
         numero1 = entrada.nextInt();
         System.out.println(" inghrese el segundo numero: ");
         numero2 = entrada.nextInt();
-        
 
         System.out.println("--- RESULTADOS ---");
 
@@ -26,6 +25,8 @@ public class Ejercicios2 {
         System.out.println("Resta: " + resultadoResta);
         System.out.println("Multiplicación: " + resultadoMultiplicacion);
         System.out.println("División: " + resultadoDivision);
+
+        entrada.close();
     }
-    
+
 }

@@ -1,8 +1,7 @@
 
-
 import java.util.Scanner;
 
-public class Operaciones {
+public class Operaciones_Clase2 {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
@@ -38,4 +37,3 @@ public class Operaciones {
         entrada.close();
     }
 }
-

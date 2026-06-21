@@ -33,5 +33,7 @@ public class Ejercicios_Clase1 {
         System.out.println(" Salario: $" + Salario);
         System.out.println(" Nivel de estudios: " + Estudios);
         System.out.println(" Dirección: " + Direccion);
+
+        entrada.close();
     }
 }
