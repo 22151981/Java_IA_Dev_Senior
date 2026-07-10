@@ -11,7 +11,7 @@ public class Opciones {
 
     switch (opcion) {
       case 1:
-        System.out.println("nuevo padido");
+        System.out.println("nuevo pedido");
         break;
       case 2:
         System.out.println("Aplicar descuento");
@@ -23,7 +23,10 @@ public class Opciones {
       default:
         System.out.println("Opcion Invalida.....");
         break;
+
     }
+
+    entrada.close();
   }
 
 }

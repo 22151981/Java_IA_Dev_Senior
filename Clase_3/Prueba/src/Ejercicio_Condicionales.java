@@ -23,13 +23,14 @@ public class Ejercicio_Condicionales {
     double totalMayores = mayores * valorEntradaM;
     double totalMenores = menores * valorEntradaMe;
     double totalCuenta = totalMayores + totalMenores;
-    System.out.println(" El señor " + nombre + " tiene un total a pagar es: $" + totalCuenta);
+    System.out.println(" El señor " + nombre + " el total a pagar es: $" + totalCuenta);
     double descuento = 0.10;
     if (descuentoAfiliados == true) {
       double totalDescuento = totalCuenta * descuento;
       double totalPagar = totalCuenta - totalDescuento;
-      System.out.println(" El descuento es: $" + totalDescuento);
-      System.out.println(" El señor " + nombre + " tiene un total a pagar es: $" + totalPagar);
+      System.out.println(" Se aplicó un descuento por afiliación del 10%.");
+      System.out.println("El valor del descuento es: $" + totalDescuento);
+      System.out.println("El total a pagar después del descuento es: $" + totalPagar);
     } else {
       System.out.println(" No tiene descuento por afiliación");
 
