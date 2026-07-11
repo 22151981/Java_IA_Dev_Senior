@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ciclos2",
+      "request": "launch",
+      "mainClass": "Ciclos2",
+      "projectName": "Modulo1_50eefeee"
+    },
+    {
+      "type": "java",
+      "name": "Cliclos2",
+      "request": "launch",
+      "mainClass": "Cliclos2",
+      "projectName": "Modulo1_50eefeee"
+    },
+    {
+      "type": "java",
       "name": "Clase_Clicos",
       "request": "launch",
       "mainClass": "Clase_Clicos",
