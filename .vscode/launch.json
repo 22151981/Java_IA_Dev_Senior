@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Metodos",
+      "request": "launch",
+      "mainClass": "Metodos",
+      "projectName": "Modulo1_50eefeee"
+    },
+    {
+      "type": "java",
       "name": "Ciclos2",
       "request": "launch",
       "mainClass": "Ciclos2",
