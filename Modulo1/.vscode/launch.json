@@ -1,0 +1,63 @@
+{
+  // Use IntelliSense para saber los atributos posibles.
+  // Mantenga el puntero para ver las descripciones de los existentes atributos.
+  // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Modulo1_50eefeee"
+    },
+    {
+      "type": "java",
+      "name": "Metodos",
+      "request": "launch",
+      "mainClass": "Metodos",
+      "projectName": "Modulo1_50eefeee"
+    },
+    {
+      "type": "java",
+      "name": "Ciclos2",
+      "request": "launch",
+      "mainClass": "Ciclos2",
+      "projectName": "Modulo1_50eefeee"
+    },
+    {
+      "type": "java",
+      "name": "Cliclos2",
+      "request": "launch",
+      "mainClass": "Cliclos2",
+      "projectName": "Modulo1_50eefeee"
+    },
+    {
+      "type": "java",
+      "name": "Clase_Clicos",
+      "request": "launch",
+      "mainClass": "Clase_Clicos",
+      "projectName": "Modulo1_50eefeee"
+    },
+    {
+      "type": "java",
+      "name": "Ejercicio_Condicionales",
+      "request": "launch",
+      "mainClass": "Ejercicio_Condicionales",
+      "projectName": "Modulo1_50eefeee"
+    },
+    {
+      "type": "java",
+      "name": "Opciones",
+      "request": "launch",
+      "mainClass": "Opciones",
+      "projectName": "Modulo1_50eefeee"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
